@@ -15,6 +15,27 @@ Find the Sketch-up model and STL files for this project.
 
 [![Auto-generative music and dynamic patterns with Arduino. 3D Model.](https://federicopfaffendorf.com.ar/etc/tft-arduino.jpg)](https://federicopfaffendorf.com.ar/etc/tft-arduino.jpg)
 
+## Wiring
+
+Before doing any wiring please check the voltages. 
+
+### TFT
+
+VCC - 5v  
+GND - GND  
+CS - D10  
+DC/RST - D9  
+A0 - D8  
+SDA -D11  
+SCK - D13  
+LED - 3.3v  
+
+### Encoder
+
+BTN - D5  
+CW - D3  
+CWW - D2  
+
 ## Links
 
 Please visit my project at create.arduino.cc, make sure to checkout other projects !
